@@ -1,4 +1,4 @@
-#Lacun - Akıllı Seyahat Planlayıcısı
+#Lacun - Akıllı Seyahat Planlayıcısı#
 
 **Lacun**, seyahat severler için geliştirilmiş bir uygulamadır. Bu uygulama, seyahatinizi en verimli şekilde planlamanızı sağlar. Yapay zeka desteği ile popüler lokasyonlar, ulaşım seçenekleri ve bütçe takibi gibi işlemleri kolayca yapabilirsiniz. Seyahatlerinizi daha düzenli, hızlı ve stressiz hale getirmek için gereken tüm araçları sunar.
 
